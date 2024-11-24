@@ -1,0 +1,6 @@
+@DeepakAPI_HostAddress = http://localhost:5075
+
+GET {{DeepakAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
